@@ -43,7 +43,7 @@
 
 ### Languages
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -57,7 +57,7 @@
 
 ### Frontend
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
@@ -67,7 +67,7 @@
 
 ### Backend
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -75,20 +75,20 @@
 
 ### Database
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### Mobile
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 </p>
 
 ### ML / AI
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -97,20 +97,20 @@
 
 ### Geospatial
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
 </p>
 
 ### IDEs & Editors
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
 </p>
 
 ### Operating Systems
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -118,28 +118,10 @@
 
 ### Tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/sonarqube-%23126ED3.svg?style=for-the-badge&logo=sonarqubecloud&logoColor=white" alt="SonarQube" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    width="450"
-    alt="GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    width="375"
-    alt="Top languages"
-  />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -170,3 +152,4 @@
 <p align="center">
   <i>Thanks for stopping by, so someone does read these things. 😄</i>
 </p>
+
