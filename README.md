@@ -1,9 +1,3 @@
- <div align="right">
-    <a href="README.es.md">
-        <img src="assets/language-eng.svg" width="180" alt="Switch to Spanish">
-    </a>
-</div>
-
 <h1 align="center">
     Hi, I'm Raúl Medina
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
