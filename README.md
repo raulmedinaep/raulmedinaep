@@ -30,7 +30,7 @@
 
 <h2>
     <img src="assets/star-jump.gif" height="30" alt="Jumping pixel star"/>
-    <i>About Me</i>
+    <i>About me</i>
 </h2>
 
 <img align="right" src="assets/2b_transparente.gif" width="230" alt="Pixel art character"/>
